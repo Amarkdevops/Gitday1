@@ -1,4 +1,2 @@
-Hello Amar welcome to Devops
-:
-    wq!
+Hello Amar
 
