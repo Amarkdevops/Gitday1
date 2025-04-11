@@ -14,11 +14,11 @@ def lambda_handler(event, context):
 
     # Create a response object
     response = {
-        'statusCode': 200,
+        'statusCode': 100,
         'body': json.dumps({
             'message': f"Hello, {name}!",
             'input': event
         })
     }
 
-    return response
+    returnse
